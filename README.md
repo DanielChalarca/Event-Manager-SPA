@@ -1,4 +1,4 @@
-# Event Manager SPA - Final Project
+# Event Manager SPA 
 
 **Coder:** Daniel Chalarca  
 **Clan:** Tayrona  
